@@ -20,4 +20,4 @@ xxx-app.xml<iPhone><InfoAdditions>里
 <fullScreen>false</fullScreen>
 ```
 
-一样需要在OSX内编译
+重新编译一样需要OSX环境
