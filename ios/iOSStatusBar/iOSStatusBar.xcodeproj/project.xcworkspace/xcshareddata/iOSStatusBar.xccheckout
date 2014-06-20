@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DD6E5482-7F51-4988-B217-E3FF87F328FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOSStatusBar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9167CF9A-8A81-4CA8-9B4F-8D6A70BDE201</key>
+		<string>https://github.com/chzuqi/ANE-Youmi-OfferWall.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/iOSStatusBar/iOSStatusBar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9167CF9A-8A81-4CA8-9B4F-8D6A70BDE201</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chzuqi/ANE-Youmi-OfferWall.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9167CF9A-8A81-4CA8-9B4F-8D6A70BDE201</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9167CF9A-8A81-4CA8-9B4F-8D6A70BDE201</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ANE-iOS-StatusBar</string>
+		</dict>
+	</array>
+</dict>
+</plist>

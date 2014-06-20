@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iOSStatusBar' target in the 'iOSStatusBar' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
